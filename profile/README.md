@@ -1,6 +1,6 @@
 # Palm Connectivity
 
-![Palm Connectivity Logo](https://palmconnectivity.com/images/landing/PalmFleetBlack.png)
+![Palm Connectivity Logo](https://github.com/Palmcroft-Industries/PalmDashboard/blob/9a0894ee832afcd8f23091fa150ff53317b8f948/assets/palm_logo.png?raw=true)
 
 Our company goal is to provide useful data and analytics to companies with powered and non-powered assets. Our solution stack includes:
 1. A mobile app for tracking GPS and receiving dispatch requests
